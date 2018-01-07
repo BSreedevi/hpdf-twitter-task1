@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import Grid from 'material-ui-next/Grid'
-import Typography from 'material-ui-next/Typography'
+import Grid from 'material-ui/Grid'
+import Typography from 'material-ui/Typography'
 
 class SmallLinks extends Component{
     render(){

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import { withStyles } from 'material-ui-next/styles';
-import Grid from 'material-ui-next/Grid';
+import { withStyles } from 'material-ui/styles';
+import Grid from 'material-ui/Grid';
 
 import HomeNavbar from './HomeNavbar';
 import PageLeft from './PageLeft';

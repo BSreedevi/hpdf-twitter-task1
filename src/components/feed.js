@@ -2,10 +2,10 @@ import React, { Component } from 'react'
 import Divider from 'material-ui/Divider';
 import 'font-awesome/css/font-awesome.min.css'
 import Card, { CardActions, CardMedia } from 'material-ui/Card';
-import Grid from 'material-ui-next/Grid'
-import Tooltip from 'material-ui-next/Tooltip'
-import Avatar from 'material-ui-next/Avatar'
-import Typography from 'material-ui-next/Typography'
+import Grid from 'material-ui/Grid'
+import Tooltip from 'material-ui/Tooltip'
+import Avatar from 'material-ui/Avatar'
+import Typography from 'material-ui/Typography'
 
 class Feed extends Component{
     render(){
@@ -43,7 +43,7 @@ class Feed extends Component{
                                 <Grid item>
                                     <Card style={{boxShadow:"none",width:"300px"}}>
                                         <CardMedia align ='center' >
-                                        <img src= 'https://pbs.twimg.com/media/DSY2-6kW4AA8jcP.png' />
+                                        <img width="300px" src= 'https://pbs.twimg.com/media/DSY2-6kW4AA8jcP.png' />
                                         </CardMedia>
 
                                         <CardActions>

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Grid from 'material-ui-next/Grid'
+import Grid from 'material-ui/Grid'
 import 'font-awesome/css/font-awesome.min.css'
 import SearchPageContent from './SearchPageContent'
 import SearchPageNavbar from './SearchPageNavbar'

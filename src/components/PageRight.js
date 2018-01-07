@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Grid from 'material-ui-next/Grid'
+import Grid from 'material-ui/Grid'
 import FollowSuggestions from './follow-suggestions'
 import SmallLinks from './small-links'
 

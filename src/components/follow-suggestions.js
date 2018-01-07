@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
-import Grid from 'material-ui-next/Grid'
-import Avatar from 'material-ui-next/Avatar'
-import Button from 'material-ui-next/Button'
-import Typography from 'material-ui-next/Typography'
+import Grid from 'material-ui/Grid'
+import Avatar from 'material-ui/Avatar'
+import Button from 'material-ui/Button'
+import Typography from 'material-ui/Typography'
 /* const styles = theme =>({
     followButton:{
         color: "#1da1f2",

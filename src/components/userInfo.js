@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 //import {withStyles} from 'material-ui/styles'
-import Tooltip from 'material-ui-next/Tooltip'
-import Typography from 'material-ui-next/Typography'
-import Button from 'material-ui-next/Button'
-import Grid from 'material-ui-next/Grid'
+import Tooltip from 'material-ui/Tooltip'
+import Typography from 'material-ui/Typography'
+import Button from 'material-ui/Button'
+import Grid from 'material-ui/Grid'
 import 'font-awesome/css/font-awesome.min.css'
 const styles ={
 };

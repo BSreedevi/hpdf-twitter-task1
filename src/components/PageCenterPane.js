@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Grid from 'material-ui-next/Grid'
+import Grid from 'material-ui/Grid'
 import TweetInput from './tweet-input'
 import Feed from './feed'
 class CenterPane extends Component{

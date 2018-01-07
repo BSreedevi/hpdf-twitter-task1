@@ -1,11 +1,11 @@
 
 import React, { Component } from 'react';
-import Grid from 'material-ui-next/Grid'
-import Avatar from 'material-ui-next/Avatar'
-import Button from 'material-ui-next/Button'
+import Grid from 'material-ui/Grid'
+import Avatar from 'material-ui/Avatar'
+import Button from 'material-ui/Button'
 import AppBar from 'material-ui/AppBar';
-import Tabs, { Tab } from 'material-ui-next/Tabs';
-import {blue} from 'material-ui-next/colors';
+import Tabs, { Tab } from 'material-ui/Tabs';
+import {blue} from 'material-ui/colors';
 import 'font-awesome/css/font-awesome.min.css'
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 

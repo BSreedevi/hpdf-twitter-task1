@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-//import { withStyles } from 'material-ui-next/styles';
-//import Grid from 'material-ui-next/Grid';
 
 import './App.css';
 import HomePage from './components/HomePage';
@@ -17,7 +15,7 @@ class App extends Component {
         <style>{'body { background-color: #EEEEEE; }'}</style>
         <div >
           <MuiThemeProvider>
-          {/* <SearchPage/>*/}
+           {/*<SearchPage/>*/}
          <HomePage />
           </MuiThemeProvider>
         </div>            

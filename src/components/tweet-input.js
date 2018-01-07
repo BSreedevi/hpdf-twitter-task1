@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
-import Grid from 'material-ui-next/Grid'
-import Avatar from 'material-ui-next/Avatar'
-import Tooltip from 'material-ui-next/Tooltip'
-import Typography from 'material-ui-next/Typography'
+import Grid from 'material-ui/Grid'
+import Avatar from 'material-ui/Avatar'
+import Tooltip from 'material-ui/Tooltip'
+import Typography from 'material-ui/Typography'
 /* const styles ={
     tweetBar:{
         minHeight:"40px",
@@ -79,7 +79,7 @@ class TweetInput extends Component{
                 </Grid>
                 <Grid item style={{display:"flex",justifyContent:"center"}} className="refContainer">
                     <Typography className="refreshTweets">
-                        See 13 New Tweets
+                        See 11 New Tweets
                     </Typography>
                 </Grid>
             </Grid>

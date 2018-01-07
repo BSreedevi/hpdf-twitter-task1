@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import Tooltip from 'material-ui-next/Tooltip'
-import Typography from 'material-ui-next/Typography'
-import Avatar from 'material-ui-next/Avatar'
-import Grid from 'material-ui-next/Grid'
+import Tooltip from 'material-ui/Tooltip'
+import Typography from 'material-ui/Typography'
+import Avatar from 'material-ui/Avatar'
+import Grid from 'material-ui/Grid'
 import Card, { CardActions, CardMedia } from 'material-ui/Card';
 import Divider from 'material-ui/Divider';
-import {blue} from 'material-ui-next/colors';
+import {blue} from 'material-ui/colors';
 import 'font-awesome/css/font-awesome.min.css'
 import FollowSuggestions from '././../components/follow-suggestions'
 import Trends from '././../components/trends'
@@ -104,7 +104,7 @@ class SearchPageContent extends Component {
                                             <Grid item>
                                                 <Card style={{boxShadow:"none",width:"300px"}}>
                                                     <CardMedia align ='center' >
-                                                        <img src= 'https://pbs.twimg.com/media/DSdabT_W0AAX90Q.jpg' />
+                                                        <img width="300px"src= 'https://pbs.twimg.com/media/DSdabT_W0AAX90Q.jpg' />
                                                     </CardMedia>
                                                     <CardActions>
                                                         <Grid container>

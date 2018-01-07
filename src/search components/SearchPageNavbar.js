@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import AppBar from 'material-ui/AppBar';
 //import {withStyles} from 'material-ui/styles'
-//import Tooltip from 'material-ui-next/Tooltip'
-import Typography from 'material-ui-next/Typography'
-import Avatar from 'material-ui-next/Avatar'
-import Button from 'material-ui-next/Button'
-import Grid from 'material-ui-next/Grid'
-import Tabs, { Tab } from 'material-ui-next/Tabs';
-import {blue} from 'material-ui-next/colors';
+//import Tooltip from 'material-ui/Tooltip'
+import Typography from 'material-ui/Typography'
+import Avatar from 'material-ui/Avatar'
+import Button from 'material-ui/Button'
+import Grid from 'material-ui/Grid'
+import Tabs, { Tab } from 'material-ui/Tabs';
+import {blue} from 'material-ui/colors';
 import 'font-awesome/css/font-awesome.min.css'
 
 /* const styles={

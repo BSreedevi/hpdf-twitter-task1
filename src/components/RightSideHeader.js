@@ -1,12 +1,12 @@
 import React from 'react';
-import Button from 'material-ui-next/Button';
+import Button from 'material-ui/Button';
 import Avatar from 'material-ui/Avatar'
 //import RaisedButton from 'material-ui/RaisedButton';
 //import NotificationsIcon from 'material-ui/svg-icons/social/notifications';
 //import { blue300, indigo900, orange200, deepOrange300, pink400, purple500} from 'material-ui/styles/colors';
 //import SearchBar from 'material-ui-search-bar';
 import { withStyles } from 'material-ui/styles';
-import Grid from 'material-ui-next/Grid';
+import Grid from 'material-ui';
 //import deepOrange from 'material-ui-next/colors/deepOrange';
 //import deepPurple from 'material-ui-next/colors/deepPurple';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
